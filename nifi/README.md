@@ -30,6 +30,12 @@ sample_df.to_csv("energy_efficiency_data_100.csv", index=False)
 print("Reduced Dataset Record Count: ", len(sample_df))  
 print("\nSample of Reduced Dataset: ")  
 print(sample_df.head())  
+  
+The python code was run using Jupyter Notebook:  
+
+
+
+
 
 
 
