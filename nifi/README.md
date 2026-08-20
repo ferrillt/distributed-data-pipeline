@@ -33,8 +33,12 @@ print(sample_df.head())
   
 The python code was run using Jupyter Notebook:  
 
-![Jupyter Notebook:](./screenshots/01_JupyterNotebook_labels.png)
+![Jupyter Notebook:](./screenshots/01_JupyterNotebook_labels.png)  
+  
 
+The dataset was reduced using Python and pandas. A random sample of 100 observations was selected from the original 768 records using random_state=650.  The fixed random seed makes the sampling process reproducible, while reset_index(drop=True) removes the original row index from the sampled output.  The resulting dataset was saved as energy_efficiency_data_100.csv with all original attributes retained.  
+
+The fixed random seed (random_state=650) was used to ensure that the sampling process was reproducible.  The seed value was selected as a convenient reference to DSC 650 and does not affect the validity of the random sampling process.
 
 
 
