@@ -33,8 +33,7 @@ print(sample_df.head())
   
 The python code was run using Jupyter Notebook:  
 
-
-
+![Description of image](path/to/image.png)
 
 
 
