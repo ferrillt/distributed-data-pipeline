@@ -33,7 +33,7 @@ print(sample_df.head())
   
 The python code was run using Jupyter Notebook:  
 
-![Jupyter Notebook:]((https://github.com/ferrillt/distributed-data-pipeline/blob/main/nifi/screenshots/01_JupyterNotebook_labels.png))
+![Jupyter Notebook:](./screenshots/01_JupyterNotebook_labels.png)
 
 
 
